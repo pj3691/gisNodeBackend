@@ -1,0 +1,19 @@
+{
+  "name": "nodebackend",
+  "version": "0.0.0",
+  "description": "node后端项目",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pj3691/gisNodeBackend.git"
+  },
+  "author": "pj3691",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pj3691/gisNodeBackend/issues"
+  },
+  "homepage": "https://github.com/pj3691/gisNodeBackend#readme"
+}
